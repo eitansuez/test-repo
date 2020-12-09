@@ -8,7 +8,7 @@ params:
   MESSAGE: world
 
 run:
-  path: /bin/bash
+  path: /bin/sh
   args:
   - -c
   - echo "Hello, ${MESSAGE}!"
