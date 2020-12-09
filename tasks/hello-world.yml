@@ -9,4 +9,4 @@ params:
 
 run:
   path: echo
-  args: ["Hello, $MESSAGE!"]
+  args: ["Hello, ${MESSAGE}!"]
